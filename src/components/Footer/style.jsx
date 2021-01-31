@@ -10,6 +10,10 @@ const FooterBox = styled.footer`
   p {
     margin: 0;
   }
+
+  a {
+    white-space: nowrap;
+  }
 `;
 
 export default FooterBox;
