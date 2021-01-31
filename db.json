@@ -1,0 +1,42 @@
+{
+  "title": "Tipos BR",
+  "heading": "Tipos Brasileiros",
+  "description": "Catálogo de tipografias brasileiras",
+  "sheets": [
+    "2021",
+    "2020",
+    "2019",
+    "2018",
+    "2017",
+    "2016",
+    "2015",
+    "2014",
+    "2013",
+    "2012",
+    "2011"
+  ],
+  "theme": {
+    "light": {
+      "colors": {
+        "primary": "#008855",
+        "secondary": "#00FF77",
+        "text": "#333333",
+        "link": "#888888",
+        "border": "#BBBBBB",
+        "background": "#FFFFFF",
+        "error": "#DD1155"
+      }
+    },
+    "dark": {
+      "colors": {
+        "primary": "#008855",
+        "secondary": "#00FF77",
+        "text": "#FFFFFF",
+        "link": "#AAAAAA",
+        "border": "#666666",
+        "background": "#333333",
+        "error": "#DD1155"
+      }
+    }
+  }
+}
